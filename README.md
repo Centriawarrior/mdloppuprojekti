@@ -1,7 +1,7 @@
 # OULA NIKKINEN **WEB-tehtävä**
 
-## 
-### Jaon palikat/kappaleet sillee mukavasti että isompi aihe saa numeron ja sit jokainen tehtävä sarake pysäyttää merkillä #
+ 
+### Jaon palikat/kappaleet sillee mukavasti että isompi aihe saa numeron #
 
 
 # 1. Italics and Bold
