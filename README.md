@@ -85,9 +85,6 @@ We've started writing out some reference links. You'll need to finish them up! C
 
  We've started placing some reference images; you'll need to complete them, just like the last lesson. Call the first reference tag "Black", and make it link to https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg; make the second image link out to http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png.
 
- [Black cat][Black]
-
- [Orange cat][Orange]
 
  ![Black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
